@@ -8,7 +8,7 @@ def countdown(t):
         time.sleep(1)
         t -= 1
 
-    print('专注时间结束！')
+    print('专注时间结束！2')
 
 # 5分钟的专注时间
 countdown(5 * 60)
